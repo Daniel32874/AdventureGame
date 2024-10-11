@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But include specific core files
+!main.py
+!settings.json
+!utils.py
+!.gitignore
