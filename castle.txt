@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "You stand before a towering, ancient castle, its stone walls veiled in thick mist. The crumbling turrets loom above, and the wind carries faint whispers, as if the very stones are murmuring secrets long forgotten."
+
