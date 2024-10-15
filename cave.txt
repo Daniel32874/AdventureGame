@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "You find yourself at the mouth of a vast cave, its entrance swallowed by shadows. The air is cool and damp, and as you step inside, the echo of dripping water and faint whispers seem to rise from the depths, as if the cave itself is alive with ancient, unseen voices."
+
